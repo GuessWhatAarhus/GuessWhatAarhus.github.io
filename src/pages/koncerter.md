@@ -10,6 +10,6 @@ Detaljer om events kommer på vores [Facebookside](https://www.facebook.com/Gues
 ## Kommende koncerter
 
 * **Julekoncert.** Mandag d. 2. december 2024 kl. 20:00.\
-  Skt. Lukas Kirke. Sankt Lucas Kirkeplads 1, 8000 Aarhus C.
+  En anden kirke, et andet sted
 * **Sommerkoncert (2025).** Mandag. d. 2. juni 2025 kl. 20:00.\
-  Skt. Lukas Kirke. Sankt Lucas Kirkeplads 1, 8000 Aarhus C.
+  En anden kirke, et andet sted
