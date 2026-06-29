@@ -5,7 +5,7 @@
     "eleventy": "eleventy --watch",
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss static/css/tailwind.css --o _site/static/css/style.css --watch",
-    "build": "tinacms build && cross-env NODE_ENV=production && eleventy && cross-env NODE_ENV=production tailwindcss -i static/css/tailwind.css -o _site/static/css/style.css --minify",
+    "build": "tinacms build && cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production tailwindcss -i static/css/tailwind.css -o _site/static/css/style.css --minify",
     "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open"
   },
   "devDependencies": {
