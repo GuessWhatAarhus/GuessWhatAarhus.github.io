@@ -9,7 +9,7 @@ Detaljer om events kommer på vores [Facebookside](https://www.facebook.com/Gues
 
 ## Kommende koncerter
 
-* **Julekoncert.** Mandag d. 2. december 2024 kl. 20:00.\
+* **Julekoncert.** d. x. december 2026 kl. 20:00.\
   En anden kirke, et andet sted
-* **Sommerkoncert (2025).** Mandag. d. 2. juni 2025 kl. 20:00.\
+* **Sommerkoncert (2025).** d. x. juni 2026 kl. 20:00.\
   En anden kirke, et andet sted
