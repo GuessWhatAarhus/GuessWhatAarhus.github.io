@@ -29,7 +29,7 @@ Til optagelsesprøven vil du blive bedt om at synge en sang af eget valg, og du 
 
 Du kan [melde dig til optagelsesprøven her](/kontakt).
 
-Til den kommende sæson søger vi 1. alter, 1.sopraner og basser
+Til den kommende sæson søger vi 1. ALTER, 1. SOPRANER OG BASSER
 
 Når du har tilmeldt dig optagelsesprøven, modtager du en mere udførlig beskrivelse af prøvens indhold og forløb.
 
