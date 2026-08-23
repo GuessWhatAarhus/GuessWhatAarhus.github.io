@@ -52,11 +52,8 @@ module.exports = function(eleventyConfig) {
     "./node_modules/alpinejs/dist/cdn.min.js": "./static/js/alpine.js",
   });
 
-  // Copy Image Folder to /_site
-  eleventyConfig.addPassthroughCopy("./static/media/img");
-
-  // Copy audio Folder to /_site
-  eleventyConfig.addPassthroughCopy("./static/media/audio");
+  // Copy all media files to /_site
+  eleventyConfig.addPassthroughCopy("./static/media");
 
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
