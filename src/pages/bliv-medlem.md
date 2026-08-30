@@ -1,7 +1,7 @@
 ---
 title: Bliv medlem
 hero:
-  image: /static/media/EFKA Konference-Albertedirigerer.jpg
+  image: /static/media/EFKA-Konference-Albertedirigerer.jpg
 ---
 
 Elsker du at synge? Og kunne du tænke dig at blive en del af et af Aarhus’ fedeste kor? Så er du havnet på det rette sted.
