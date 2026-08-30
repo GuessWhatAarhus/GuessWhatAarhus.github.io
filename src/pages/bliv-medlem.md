@@ -19,7 +19,7 @@ Vi er mellem 20-30 medlemmer fordelt på følgende stemmegrupper:
 * første bas
 * anden bas
 
-Kontingentet er pt. 800,- pr. sæson.
+Kontingentet er pt. 800,- pr. sæson
 
 ## Sådan foregår optagelsesprøven
 
